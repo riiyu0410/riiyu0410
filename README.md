@@ -88,9 +88,15 @@ Built form-based applications for collecting and managing user information effic
 
 ## 📊 GitHub Stats
 
-![Riya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=riiyu0410\&show_icons=true\&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-mew7f7maq-riiyu0410s-projects.vercel.app/api?username=riiyu0410&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=riiyu0410\&layout=compact\&theme=tokyonight)
+![Top Languages](https://github-readme-stats-mew7f7maq-riiyu0410s-projects.vercel.app/api/top-langs/?username=riiyu0410&layout=compact&theme=tokyonight)
+
+---
+
+## 🏆 GitHub Trophies
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=riiyu0410&theme=tokyonight&row=1)
 
 ---
 
@@ -98,13 +104,6 @@ Built form-based applications for collecting and managing user information effic
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=riiyu0410\&theme=tokyonight)
 
----
-
-## 🏆 GitHub Trophies
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=riiyu0410\&theme=tokyonight\&row=1)
-
----
 
 ## 📚 Education
 
