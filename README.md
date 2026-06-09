@@ -132,8 +132,10 @@ Bachelor of Technology (Information Technology)
 
 ## 🌐 Socials
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)]([https://instagram.com/riiyu_0410](https://www.instagram.com/riiyu_.0410?igsh=MXkybjV0MDVyZ2FueQ%3D%3D))
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/riya-trivedi-738b63365)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/riiyu_.0410/)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/riya-trivedi-738b63365)
+
 [![Gmail](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:trivediriya007@gmail.com)
 
 ---
